@@ -5,6 +5,7 @@ django-cors-headers @ file:///home/samuel/.cache/pypoetry/artifacts/01/7b/4d/b8f
 django-heroku @ file:///home/samuel/.cache/pypoetry/artifacts/da/df/9c/7ed17c1dc8edc0ccbd03efccaca6f9270b2aedcb3af280538540f04fe9/django_heroku-0.3.1-py2.py3-none-any.whl
 djangorestframework @ file:///home/samuel/.cache/pypoetry/artifacts/e3/08/1d/2834edd42b18b05e8ca8969c859a4374478872dfff9da3c1c4c2e0aeba/djangorestframework-3.12.2-py3-none-any.whl
 gunicorn @ file:///home/samuel/.cache/pypoetry/artifacts/b5/fa/14/5790a1a5da3a5144bc505c39d8003baa6f64040928b75d0e0779683287/gunicorn-20.0.4-py2.py3-none-any.whl
+Pillow @ file:///home/samuel/.cache/pypoetry/artifacts/dc/72/1a/7393100a5a901ad79543139bc47b75318e812714a4ce45fba76f5869f0/Pillow-8.1.0-py2.py3-none-any.whl
 psycopg2 @ file:///home/samuel/.cache/pypoetry/artifacts/71/58/97/71aebefdfa9af21d5f66f51b28f6a31be7970d680f021fc8f0bc49c974/psycopg2-2.8.6.tar.gz
 pytz @ file:///home/samuel/.cache/pypoetry/artifacts/19/50/c9/f8bffb0360052b3c85b912bc4172f824bc2571e24002806fb3a428302e/pytz-2021.1-py2.py3-none-any.whl
 sqlparse @ file:///home/samuel/.cache/pypoetry/artifacts/f6/9e/b8/b33d7ab31a08d0f94b260c990d807e12f38e0ffb105a4c2ca9ad9a6434/sqlparse-0.4.1-py3-none-any.whl
